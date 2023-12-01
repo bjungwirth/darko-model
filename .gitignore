@@ -163,4 +163,6 @@ cython_debug/
 sacred-atom-348720-603c9c70cde5.json
 
 #data files
-data/
+data/*.csv
+models/*.pkl
+output/*.csv
